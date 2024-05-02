@@ -3,10 +3,13 @@
 
 - 🌱 I’m currently learning **Python, Linux, Sql**
 
+- 📞 Contact With Me **Discord : _juvie_**
+
 - ⚡ Fun fact **I started my programming adventure on HTML at my school!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/https://dev.to/julijul28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/julijul28" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
