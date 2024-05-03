@@ -5,7 +5,7 @@
 
 - 📞 Contact With Me **Discord : _juvie_**
 
-- ⚡ Fun fact **I started my programming adventure on HTML at my school!**
+- ⚡ Fun fact **Im a HAPOEL PETAH TIKVA FAN!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
