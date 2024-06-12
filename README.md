@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm JuliJul</h1>
-<h3 align="center">Begginer developer 😉 14 y/o 🇮🇱</h3>
+<h3 align="center">Begginar developer 😉 14 y/o 🇮🇱</h3>
 
 - 🌱 I’m currently learning **Python, Linux, Sql**
 
 - 📞 Contact With Me **Discord : _juvie_**
 
-- ⚡ Fun fact **Im a HAPOEL PETAH TIKVA FAN!**
+- ⚡ Fun fact **My first programming language was HTML & CSS!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
